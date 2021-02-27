@@ -1,0 +1,10 @@
+jhd12864e.c:133:6:GLCD_Init	8	static
+jhd12864e.c:147:13:GLCD_Initialize_handle	4	static
+jhd12864e.c:156:13:GLCD_segmentSelect	16	static
+jhd12864e.c:165:13:GLCD_segmentToggle	8	static
+jhd12864e.c:175:13:GLCD_writeDataLine	16	static
+jhd12864e.c:189:13:config_GLCD	8	static
+jhd12864e.c:197:13:delay_us	16	static
+jhd12864e.c:203:6:GLCD_Clear_All	8	static
+jhd12864e.c:223:6:GLCD_printLine	24	static
+jhd12864e.c:271:6:GLCD_Cursor_update	16	static

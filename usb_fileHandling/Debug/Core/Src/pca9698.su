@@ -1,0 +1,8 @@
+pca9698.c:40:9:PCA9698_Init	32	static
+pca9698.c:62:9:PCA9698_Config_AllOut	32	static
+pca9698.c:81:6:PCA9698_BankWrite	32	static
+pca9698.c:97:6:PCA9698_MultiBankWrite	32	static
+pca9698.c:105:6:PCA9698_live_scanner	24	static
+pca9698.c:139:19:PCA9698_Adv_Init	48	static
+pca9698.c:185:19:PCA9698_LineX_Write_Start	24	static
+pca9698.c:204:6:HAL_I2C_MasterTxCpltCallback	24	static
